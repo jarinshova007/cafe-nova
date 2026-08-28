@@ -1,0 +1,15 @@
+Hot Coffee - 80/=
+Cold Coffee - 120/=
+Espresso - 150/=
+Americano - 160/=
+Cappuccino - 180/=
+Latte - 190/=
+Mocha - 220/=
+Flat White - 200/=
+Caramel Macchiato - 240/=
+Vanilla Latte - 220/=
+Hazelnut Coffee - 230/=
+Iced Latte - 210/=
+Brownie - 120/=
+Cheesecake - 180/=
+
